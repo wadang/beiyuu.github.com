@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content blog">
+<div class="index-content opinion">
     <div class="section">
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>Note</span></a></li>
