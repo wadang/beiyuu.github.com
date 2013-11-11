@@ -9,4 +9,4 @@ category: note
 [查看大图](/images/note/recommended-system-1.png "查看大图")
 
 
-![](/images/note/recommended-system-1.png "推荐系统（一）")
+![](/images/note/recommended-system-1.m.png "推荐系统（一）")
