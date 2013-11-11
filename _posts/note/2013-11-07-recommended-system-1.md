@@ -6,6 +6,5 @@ category: note
 ---
 
 * [查看大图](/images/note/recommended-system-1.png "查看大图")
-* [脑图浏览](http://mindpedia.appspot.com/m?url=http://madagang.com/mindmap/recommended-system-1.mm "脑图浏览")
-
+* [浏览脑图](http://madagang.com/player/mind.html?url=http://madagang.com/mindmap/recommended-system-1.mm "浏览脑图")
 ![](/images/note/recommended-system-1_m.png "推荐系统（一）")
