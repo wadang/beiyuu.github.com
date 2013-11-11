@@ -5,8 +5,7 @@ description: 这本书我觉的还是不错的。对推荐系统的方方面面�
 category: note
 ---
 
-
 [查看大图](/images/note/recommended-system-1.png "查看大图")
-
+[脑图浏览](http://mindpedia.appspot.com/m?url=http://madagang.com/mindmap/recommended-system-1.mm "脑图浏览")
 
 ![](/images/note/recommended-system-1_m.png "推荐系统（一）")
