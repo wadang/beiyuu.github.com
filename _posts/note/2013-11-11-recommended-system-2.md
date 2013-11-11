@@ -8,4 +8,4 @@ category: note
 * [查看大图](/images/note/recommended-system-2.png "查看大图")
 * [脑图浏览](http://mindpedia.appspot.com/m?url=http://madagang.com/mindmap/recommended-system-2.mm "脑图浏览")
 
-![](/images/note/recommended-system-1_m.png "推荐系统（二）")
+![](/images/note/recommended-system-2_m.png "推荐系统（二）")
