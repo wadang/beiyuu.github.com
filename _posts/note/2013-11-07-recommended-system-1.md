@@ -5,7 +5,6 @@ description: 这本书我觉的还是不错的。对推荐系统的方方面面�
 category: note
 ---
 
-##CSS3动画
 
 [查看大图](/images/note/recommended-system-1.png "查看大图")
 
